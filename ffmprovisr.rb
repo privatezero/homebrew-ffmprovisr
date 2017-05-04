@@ -1,4 +1,4 @@
-class Uwmediatools < Formula
+class Ffmprovisr < Formula
   desc ""
   homepage ""
   url "https://github.com/amiaopensource/ffmprovisr/archive/v2017-04-19.tar.gz"
